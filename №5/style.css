@@ -1,0 +1,32 @@
+.div1{
+    background-color: rgb(241, 231, 169);
+    width: 1894px;
+    height: 108px;
+}
+.div2{
+    background: rgb(248, 142, 200);
+    width: 1894px;
+    height: 45px;
+}
+.div3{
+    background: rgb(27, 227, 241);
+    width: 310px;
+    height: 710px;
+}
+.div4{
+    background: rgb(202, 202, 202);
+    width: 1584px;
+    height: 710px;
+    margin-left: 310px;
+    margin-top: -710px;
+    position: absolute;
+    margin-bottom: 50px ;
+}
+.div5{
+    background: rgb(70, 174, 243);
+    width: 1894px;
+    height: 82px;
+}
+
+
+
